@@ -191,7 +191,7 @@ nav i{
 #sec2{
     
     width: 100vw;
-    height: 480vh;
+    /*height: 480vh;*/
     text-align: center;
     
 }
@@ -459,6 +459,9 @@ h2{
   #ec2 #infomob{
     margin-left: 12.5vw;
     margin-right: 12.5vw;
+  }
+  #ec2 #infomob a{
+    height: 200vh;
   }
   
   #ec1 div a, #ec2 #infomob div, #ec3 div,#ec4 div{
